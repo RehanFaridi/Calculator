@@ -1,6 +1,7 @@
-body{
-  background-color:#363b4a;
+body {
+  background-color: #363b4a;
 }
+
 #root {
   max-width: 100%;
   margin: 0 auto;
@@ -86,10 +87,9 @@ button:active {
 
 .equal {
   background-color: #1cad95;
- grid-column: span 4;
+  grid-column: span 4;
 }
 
 .equal:hover {
   background-color: #2dc4aa;
 }
-
